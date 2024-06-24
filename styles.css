@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    height: 1px;
+    background-color: gray;
+    border: none;
+}
+
+h1.h1-heading {
+    font-size: 24px;
+}
+
+p.subtitle {
+    font-size: 14px;
+    color: gray;
+}
+
+li.recipe {
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.hero-img {
+    object-fit: cover;
+    display: inline-block;
+    width: 100vw;
+    height: 30vh;
+}
